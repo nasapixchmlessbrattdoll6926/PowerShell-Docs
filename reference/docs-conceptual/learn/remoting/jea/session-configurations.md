@@ -1,5 +1,79 @@
----
-description: Session configurations define who can use the JEA endpoint and which roles they have access to.
+--- s095i3q5
+3
+7[w4[pu[ 4op76[p 4uo46 lup[ osrtes0oel 
+';5r
+';57
+';79
+';
+6';76
+7m'8;p
+m;r8
+ld upeyw935iw'35 b8
+57pi56p8o
+p79[p6p9]68p9]6[8p]9[p69[p9[p][p9[8p[67p9][6p90[6p890][67
+p][p] p7o]o[ pe]5[ 8]p 86][ p[dp t8[p r[dp 8d]r[pyi][p8[pu][pdr]6[p][p][p ][p 	[p] 	][p	][p 	[p] 	[]p	3p4][p][	p5][p [ep 7
+'r6;
+'5;7
+e;58[ 
+	;
+ 5'3	;
+ 	3 
+  	 [ 5	3
+    [5 	
+    ][ 3	5[	p 53	][p 5	[p 5	[3p 	[3p 
+
+      	3'	3 [
+       p5 ][ p5[p[p ] 	[3p5 ][p
+
+	 	 35 
+    [p5	[3p 	[p 	3][p 5	]\[ 	[p5][qp[]p] [p[
+    	p[
+      	4[ 46	2 p[ 6	[p [p4[ 2[] 4[] 4][p24][5p2][4p][2p ][p 	][4 [p [p
+
+	 [prs[p ]a[w[]pt	][p [ pose08	[o-09-09a-0 [	ow09itpo 	-0-0t9		][2p[][p]  5[p]  p[ [p  5	p\2 
+  '; 	
+  ;
+  	3' 	4p	[\24p	[p4	[p24	
+
+
+     ';	 4
+
+     ns;
+     52	 [467
+     	[2
+
+
+
+
+
+
+     	1[p4v[	134093490	987	97	623861654	15467	5420489908ti psgkl'l	'l	'po5 ioey 
+      l'	;'y3
+      ; u
+      [4po	i e	e09 	=9e =-9e o]w r r	wlr' 'alh
+      ar;h 
+      'q;y
+      q'357
+
+
+	]
+  6]
+  		pp 	p4p[ \4[p634[p6][p4]6[p24][p2	4][5p 2][p	]2[
+    	2
+     '4	
+
+      2	4
+      ]54]
+      ]2[52][5]\b+2+	*36+	*3+	4+98+	5555+	25
+      3 
+      	.0
+       .4  
+       .0.
+       	2
+		 24
+   	56+	86+	986+0 . 	.+	9358+9	853+	 987+0.	.+9 8	+9	8+u80+	98+	39.7	5+9.8+98+9]8-+9-8' \e]\] q[=]-y=	03y5=y3= 5	 =5= =	35 0yoptelh[;'b\ ]
+    g
+    ;'etp\ ept\u\]puuuuuuuu6\	 [\	[3	\=	3308 687	39697 	[rporo o ]o  ]d ]]do ]	o ][3o ]	[23o5[p2o	5[p 4[pf46[pi3 6poi	po4tj kvrgmflg mskdjgfaw[roi qoi3 rkigjq m6pohqj37oiwb a97erq9246 up q34j6rt9nv9q 2 apbw;slk bq2b[ 	[5	[i46[24i6pi24b[36	034 -9t0	9	0 9039v8093v80 	93n809	850984d50948509	86	978t9ugfdfg8098 a0 9n8q357iqp3oi57p49 5y80w t[apsgitij uy0958qi[88/78*e/description: Session configurations define who can use the JEA endpoint and which roles they have access to.
 ms.date: 11/16/2022
 title: JEA Session Configurations
 ---
